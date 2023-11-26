@@ -16,17 +16,3 @@ I am an aspiring Data Scientist based out of Canada. I am passionate about trans
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
         </a>
 </p>
-
-<p>
-    <h4> Skills </h4>
-    <ul>
-        <li>Python</li>
-        <li>Java</li>
-        <li>MySQL</li>
-        <li>MongoDB</li>
-        <li>Dockers</li>
-        <li>Amazon Web Services</li>
-        <li>Machine Learning</li>
-        <li>Deep Learning</li>
-    </ul>
-</p>
