@@ -1,18 +1,5 @@
 ### Hi there 👋🤩
 
-My name is Vansh Joshi. I am an aspiring Data Scientist based out of Canada. I am passionate about transforming raw data into meaningful insights. My skills encompass statistical analysis, machine learning, and data visualization
+My name is Vansh Joshi. I am an aspiring Data Scientist based out of Canada. I am passionate about transforming raw data into meaningful insights. My skills encompass statistical analysis, machine learning, and data visualization.
 
 - 📫 How to reach me: v23joshi@uwaterloo.ca
-
-<!--
-**vanshuwjoshi/vanshuwjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
