@@ -3,7 +3,7 @@
     My name is Vansh Joshi!
 </h2>
 
-I am an aspiring Data Scientist based out of Canada. I am passionate about transforming raw data into meaningful insights. My skills encompass statistical analysis, machine learning, and data visualization.
+I am an aspiring Data Scientist based out of Canada. I am passionate about transforming raw data into meaningful insights. My skills encompass Statistical Analysis, Machine Learning, and Data Visualization.
 
 <p>
     📫 How to reach me: v23joshi@uwaterloo.ca
