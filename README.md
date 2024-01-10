@@ -130,4 +130,4 @@ Analysis, Machine Learning, Deep Learning, and Data Visualization.
 </p>
 
 <h2> Certifications: </h2> 
-<a> <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+<a href="https://linktr.ee/vanshjoshi"> <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
