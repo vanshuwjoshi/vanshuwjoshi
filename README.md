@@ -8,7 +8,7 @@ transforming raw data into meaningful insights. My skills encompass Statistical
 Analysis, Machine Learning, Deep Learning, and Data Visualization.
 
 <p>📫 How to reach me: v23joshi@uwaterloo.ca</p>
-<a href="https://vanshjoshi612.wixsite.com/portfolio" target="blank">
+<a href="https://vanshjoshi.my.canva.site/" target="blank">
   <img
     src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
     alt="alsiam"
